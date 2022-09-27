@@ -24,7 +24,7 @@ function attachEventsListeners() {
 
     convertButtonElements.forEach(el => {
         el.addEventListener('click', (e) => {
-            let currTextInputElement = e.currentTarget.parentNode.querySelector('input[type="text"]');
+            let currTextInputElement = e.target.parentNode.querySelector('input[type="text"]');
             let inputValue = currTextInputElement.value;
             let inputId = currTextInputElement.id;
             
