@@ -4,3 +4,5 @@ This is a repository where I upload all my exercises, exams and certificates fro
 JavaScript Advanced Exam - 300/300 points.
 
 - Topics: DOM Manipulations and Events, Classes, Unit Testing and Error Handling.
+
+![JS Advanced - September 2022 - Certificate](https://user-images.githubusercontent.com/72508846/198326212-8566e32e-8b92-4f80-847b-0b1d65a7dde0.jpeg)
